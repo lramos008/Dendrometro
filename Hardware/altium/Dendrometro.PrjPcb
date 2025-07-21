@@ -475,7 +475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QGEPOCSE
 
 [Document26]
-DocumentPath=..\..\..\..\Leo\PFI_Dendrometro\hardware\Dendro_hardware\Flex_Sensor_ADC.SchDoc
+DocumentPath=Flex_Sensor_ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -489,7 +489,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IKOJAROI
+DocumentUniqueId=YQKSXULE
 
 [Configuration1]
 Name=Sources
