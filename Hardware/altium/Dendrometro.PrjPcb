@@ -475,7 +475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QGEPOCSE
 
 [Document26]
-DocumentPath=Flex_Sensor_ADC.SchDoc
+DocumentPath=Flex_Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -490,6 +490,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQKSXULE
+
+[Document27]
+DocumentPath=ADS_AFE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MVNDUIVC
 
 [Configuration1]
 Name=Sources
