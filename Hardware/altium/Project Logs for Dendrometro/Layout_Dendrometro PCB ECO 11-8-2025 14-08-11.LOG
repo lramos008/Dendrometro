@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Datalogging Member=TP31
+Removed Member From Class: ClassName=SPI_Devices Member=TP31
+Added Member To Class: ClassName=SPI_Devices Member=Component TP29 Testpoint SMD
+Added Member To Class: ClassName=Datalogging Member=Component TP30 Testpoint SMD
+Added Member To Class: ClassName=ADS_AFE Member=Component TP32 Testpoint SMD

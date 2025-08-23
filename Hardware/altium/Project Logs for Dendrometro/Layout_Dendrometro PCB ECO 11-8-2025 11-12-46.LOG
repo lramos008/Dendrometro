@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=TP29 NewDesignator=TP30
+Change Component Designator: OldDesignator=TP30 NewDesignator=TP31
+Change Component Designator: OldDesignator=TP31 NewDesignator=TP32
+Change Component Designator: OldDesignator=TP32 NewDesignator=TP33
+Added Component: Designator=TP29(Testpoint_SMD)
+Added Pin To Net: NetName=GND Pin=TP29-1
+Added Member To Class: ClassName=SPI_Devices Member=Component TP29 Testpoint SMD

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=MCU_OSC_OUT Pin=C13-1
+Removed Pin From Net: NetName=MCU_OSC_OUT Pin=Y1-3
+Added Component: Designator=R3(R_0805)
+Add component (AddParameter): Name = "Value"; Value = "2kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=R3-2
+Added Pin To Net: NetName=DL_LIM Pin=C13-1
+Added Pin To Net: NetName=DL_LIM Pin=R3-1
+Added Pin To Net: NetName=DL_LIM Pin=Y1-3
+Added Net: Name=DL_LIM
+Added Member To Class: ClassName=MCU_Core Member=Component R3 Simbolo de resistencia genérica

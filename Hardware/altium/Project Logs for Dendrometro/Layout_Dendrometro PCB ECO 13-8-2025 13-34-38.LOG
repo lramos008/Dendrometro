@@ -1,0 +1,271 @@
+Removed Pin From Net: NetName=+3V Pin=SJ1-1
+Removed Pin From Net: NetName=+3V_MCU Pin=SJ1-2
+Removed Pin From Net: NetName=+3V Pin=SJ2-1
+Removed Pin From Net: NetName=+3V_SHT Pin=SJ2-2
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ3-1
+Removed Pin From Net: NetName=SHT_SCL Pin=SJ3-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ4-1
+Removed Pin From Net: NetName=SHT_SDA Pin=SJ4-2
+Removed Pin From Net: NetName=I2C_SCL Pin=SJ5-1
+Removed Pin From Net: NetName=DS_SCL Pin=SJ5-2
+Removed Pin From Net: NetName=DS_INT Pin=SJ6-1
+Removed Pin From Net: NetName=RTC_INT Pin=SJ6-2
+Removed Pin From Net: NetName=+3V Pin=SJ7-1
+Removed Pin From Net: NetName=+3V_RTC Pin=SJ7-2
+Removed Pin From Net: NetName=I2C_SDA Pin=SJ8-1
+Removed Pin From Net: NetName=DS_SDA Pin=SJ8-2
+Removed Pin From Net: NetName=DS_RST Pin=SJ9-1
+Removed Pin From Net: NetName=RTC_RST Pin=SJ9-2
+Removed Pin From Net: NetName=+3V Pin=SJ10-1
+Removed Pin From Net: NetName=+3V_BLE Pin=SJ10-2
+Removed Pin From Net: NetName=RX_MCU Pin=SJ11-1
+Removed Pin From Net: NetName=HM10_TX Pin=SJ11-2
+Removed Pin From Net: NetName=HM10_EN Pin=SJ12-1
+Removed Pin From Net: NetName=BLE_EN Pin=SJ12-2
+Removed Pin From Net: NetName=TX_MCU Pin=SJ13-1
+Removed Pin From Net: NetName=HM10_RX Pin=SJ13-2
+Removed Pin From Net: NetName=HM10_STATE Pin=SJ14-1
+Removed Pin From Net: NetName=BLE_STATE Pin=SJ14-2
+Removed Pin From Net: NetName=+3V Pin=SJ15-1
+Removed Pin From Net: NetName=+3V_SD Pin=SJ15-2
+Removed Pin From Net: NetName=SD_CD Pin=SJ16-1
+Removed Pin From Net: NetName=CARD_DET Pin=SJ16-2
+Removed Pin From Net: NetName=SPI_MISO Pin=SJ17-1
+Removed Pin From Net: NetName=SD_DAT0 Pin=SJ17-2
+Removed Pin From Net: NetName=SPI_MOSI Pin=SJ18-1
+Removed Pin From Net: NetName=SD_CMD Pin=SJ18-2
+Removed Pin From Net: NetName=SPI_CLK Pin=SJ19-1
+Removed Pin From Net: NetName=SD_CLK Pin=SJ19-2
+Removed Pin From Net: NetName=SPI_CS_SD Pin=SJ20-1
+Removed Pin From Net: NetName=SD_DAT3 Pin=SJ20-2
+Removed Pin From Net: NetName=SPI_MISO Pin=SJ21-1
+Removed Pin From Net: NetName=ADS_DOUT Pin=SJ21-2
+Removed Pin From Net: NetName=SPI_MOSI Pin=SJ22-1
+Removed Pin From Net: NetName=ADS_DIN Pin=SJ22-2
+Removed Pin From Net: NetName=ADS_DRDY Pin=SJ23-1
+Removed Pin From Net: NetName=ADC_DRDY Pin=SJ23-2
+Removed Pin From Net: NetName=SPI_CLK Pin=SJ24-1
+Removed Pin From Net: NetName=ADS_SCLK Pin=SJ24-2
+Removed Pin From Net: NetName=SPI_CS_ADC Pin=SJ25-1
+Removed Pin From Net: NetName=ADS_CS Pin=SJ25-2
+Removed Pin From Net: NetName=+3V Pin=SJ26-1
+Removed Pin From Net: NetName=+3V_ADS_D Pin=SJ26-2
+Removed Pin From Net: NetName=+3VA Pin=SJ27-1
+Removed Pin From Net: NetName=+3V_ADS_A Pin=SJ27-2
+Removed Member From Class: ClassName=MCU_Core Member=SJ1
+Removed Member From Class: ClassName=I2C_Devices Member=SJ2
+Removed Member From Class: ClassName=I2C_Devices Member=SJ3
+Removed Member From Class: ClassName=I2C_Devices Member=SJ4
+Removed Member From Class: ClassName=I2C_Devices Member=SJ5
+Removed Member From Class: ClassName=I2C_Devices Member=SJ6
+Removed Member From Class: ClassName=I2C_Devices Member=SJ7
+Removed Member From Class: ClassName=I2C_Devices Member=SJ8
+Removed Member From Class: ClassName=I2C_Devices Member=SJ9
+Removed Member From Class: ClassName=BLE_Connectivity Member=SJ10
+Removed Member From Class: ClassName=BLE_Connectivity Member=SJ11
+Removed Member From Class: ClassName=BLE_Connectivity Member=SJ12
+Removed Member From Class: ClassName=BLE_Connectivity Member=SJ13
+Removed Member From Class: ClassName=BLE_Connectivity Member=SJ14
+Removed Member From Class: ClassName=Datalogging Member=SJ15
+Removed Member From Class: ClassName=Datalogging Member=SJ16
+Removed Member From Class: ClassName=Datalogging Member=SJ17
+Removed Member From Class: ClassName=Datalogging Member=SJ18
+Removed Member From Class: ClassName=Datalogging Member=SJ19
+Removed Member From Class: ClassName=Datalogging Member=SJ20
+Removed Member From Class: ClassName=Flex_Sensor Member=SJ21
+Removed Member From Class: ClassName=Flex_Sensor Member=SJ22
+Removed Member From Class: ClassName=Flex_Sensor Member=SJ23
+Removed Member From Class: ClassName=Flex_Sensor Member=SJ24
+Removed Member From Class: ClassName=Flex_Sensor Member=SJ25
+Removed Member From Class: ClassName=Flex_Sensor Member=SJ26
+Removed Member From Class: ClassName=ADS_AFE Member=SJ27
+Change Component Footprint: Designator=C1 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C2 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C3 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C4 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C5 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C6 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C7 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C8 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C9 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C10 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C11 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C12 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C13 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C14 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C15 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C16 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C17 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C18 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C19 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C20 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C21 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C22 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C23 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C24 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C25 Old Footprint=C_0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=R1 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R2 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R3 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R4 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R5 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R6 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R7 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R8 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R9 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R10 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R12 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R13 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R14 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R15 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R16 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R17 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R18 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R19 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R20 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R21 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R22 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R23 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R24 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R25 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R26 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R27 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R28 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R29 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R30 Old Footprint=R_0805 New Footprint=RES_0805
+Change Component Footprint: Designator=R31 Old Footprint=R_0805 New Footprint=RES_0805
+Added Component: Designator=JP1(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP4(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP6(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP7(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP8(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP9(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP10(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP11(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP12(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP13(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP14(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP15(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP16(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP17(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP18(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP19(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP20(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP21(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP22(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP23(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP24(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP25(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP26(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Component: Designator=JP27(RES_0R_0603)
+Add component (AddParameter): Name = "Value"; Value = "0O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V Pin=JP1-1
+Added Pin To Net: NetName=+3V_MCU Pin=JP1-2
+Added Pin To Net: NetName=+3V Pin=JP2-1
+Added Pin To Net: NetName=+3V_SHT Pin=JP2-2
+Added Pin To Net: NetName=I2C_SCL Pin=JP3-1
+Added Pin To Net: NetName=SHT_SCL Pin=JP3-2
+Added Pin To Net: NetName=I2C_SDA Pin=JP4-1
+Added Pin To Net: NetName=SHT_SDA Pin=JP4-2
+Added Pin To Net: NetName=I2C_SCL Pin=JP5-1
+Added Pin To Net: NetName=DS_SCL Pin=JP5-2
+Added Pin To Net: NetName=DS_INT Pin=JP6-1
+Added Pin To Net: NetName=RTC_INT Pin=JP6-2
+Added Pin To Net: NetName=+3V Pin=JP7-1
+Added Pin To Net: NetName=+3V_RTC Pin=JP7-2
+Added Pin To Net: NetName=I2C_SDA Pin=JP8-1
+Added Pin To Net: NetName=DS_SDA Pin=JP8-2
+Added Pin To Net: NetName=DS_RST Pin=JP9-1
+Added Pin To Net: NetName=RTC_RST Pin=JP9-2
+Added Pin To Net: NetName=+3V Pin=JP10-1
+Added Pin To Net: NetName=+3V_BLE Pin=JP10-2
+Added Pin To Net: NetName=RX_MCU Pin=JP11-1
+Added Pin To Net: NetName=HM10_TX Pin=JP11-2
+Added Pin To Net: NetName=HM10_EN Pin=JP12-1
+Added Pin To Net: NetName=BLE_EN Pin=JP12-2
+Added Pin To Net: NetName=TX_MCU Pin=JP13-1
+Added Pin To Net: NetName=HM10_RX Pin=JP13-2
+Added Pin To Net: NetName=HM10_STATE Pin=JP14-1
+Added Pin To Net: NetName=BLE_STATE Pin=JP14-2
+Added Pin To Net: NetName=+3V Pin=JP15-1
+Added Pin To Net: NetName=+3V_SD Pin=JP15-2
+Added Pin To Net: NetName=SD_CD Pin=JP16-1
+Added Pin To Net: NetName=CARD_DET Pin=JP16-2
+Added Pin To Net: NetName=SPI_MISO Pin=JP17-1
+Added Pin To Net: NetName=SD_DAT0 Pin=JP17-2
+Added Pin To Net: NetName=SPI_MOSI Pin=JP18-1
+Added Pin To Net: NetName=SD_CMD Pin=JP18-2
+Added Pin To Net: NetName=SPI_CLK Pin=JP19-1
+Added Pin To Net: NetName=SD_CLK Pin=JP19-2
+Added Pin To Net: NetName=SPI_CS_SD Pin=JP20-1
+Added Pin To Net: NetName=SD_DAT3 Pin=JP20-2
+Added Pin To Net: NetName=SPI_MISO Pin=JP21-1
+Added Pin To Net: NetName=ADS_DOUT Pin=JP21-2
+Added Pin To Net: NetName=SPI_MOSI Pin=JP22-1
+Added Pin To Net: NetName=ADS_DIN Pin=JP22-2
+Added Pin To Net: NetName=ADS_DRDY Pin=JP23-1
+Added Pin To Net: NetName=ADC_DRDY Pin=JP23-2
+Added Pin To Net: NetName=SPI_CLK Pin=JP24-1
+Added Pin To Net: NetName=ADS_SCLK Pin=JP24-2
+Added Pin To Net: NetName=SPI_CS_ADC Pin=JP25-1
+Added Pin To Net: NetName=ADS_CS Pin=JP25-2
+Added Pin To Net: NetName=+3V Pin=JP26-1
+Added Pin To Net: NetName=+3V_ADS_D Pin=JP26-2
+Added Pin To Net: NetName=+3VA Pin=JP27-1
+Added Pin To Net: NetName=+3V_ADS_A Pin=JP27-2
+Added Member To Class: ClassName=MCU_Core Member=Component JP1 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP2 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP3 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP4 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP5 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP6 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP7 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP8 Generic JP
+Added Member To Class: ClassName=I2C_Devices Member=Component JP9 Generic JP
+Added Member To Class: ClassName=BLE_Connectivity Member=Component JP10 Generic JP
+Added Member To Class: ClassName=BLE_Connectivity Member=Component JP11 Generic JP
+Added Member To Class: ClassName=BLE_Connectivity Member=Component JP12 Generic JP
+Added Member To Class: ClassName=BLE_Connectivity Member=Component JP13 Generic JP
+Added Member To Class: ClassName=BLE_Connectivity Member=Component JP14 Generic JP
+Added Member To Class: ClassName=Datalogging Member=Component JP15 Generic JP
+Added Member To Class: ClassName=Datalogging Member=Component JP16 Generic JP
+Added Member To Class: ClassName=Datalogging Member=Component JP17 Generic JP
+Added Member To Class: ClassName=Datalogging Member=Component JP18 Generic JP
+Added Member To Class: ClassName=Datalogging Member=Component JP19 Generic JP
+Added Member To Class: ClassName=Datalogging Member=Component JP20 Generic JP
+Added Member To Class: ClassName=Flex_Sensor Member=Component JP21 Generic JP
+Added Member To Class: ClassName=Flex_Sensor Member=Component JP22 Generic JP
+Added Member To Class: ClassName=Flex_Sensor Member=Component JP23 Generic JP
+Added Member To Class: ClassName=Flex_Sensor Member=Component JP24 Generic JP
+Added Member To Class: ClassName=Flex_Sensor Member=Component JP25 Generic JP
+Added Member To Class: ClassName=Flex_Sensor Member=Component JP26 Generic JP
+Added Member To Class: ClassName=ADS_AFE Member=Component JP27 Generic JP

@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=MCU_Core Member=C15
+Removed Member From Class: ClassName=BLE_Connectivity Member=C17
+Removed Member From Class: ClassName=Datalogging Member=C19
+Removed Member From Class: ClassName=Datalogging Member=J3
+Added Member To Class: ClassName=MCU_Core Member=Component C7 Simbolo de capacitor genérico
+Added Member To Class: ClassName=MCU_Core Member=Component C8 Simbolo de capacitor genérico
+Added Member To Class: ClassName=MCU_Core Member=Component C10 Simbolo de capacitor genérico
+Added Member To Class: ClassName=MCU_Core Member=Component C12 Simbolo de capacitor genérico
+Added Member To Class: ClassName=MCU_Core Member=Component C14 Simbolo de capacitor genérico
+Added Member To Class: ClassName=BLE_Connectivity Member=Component C16 Simbolo de capacitor genérico
+Added Member To Class: ClassName=Datalogging Member=Component C18 Simbolo de capacitor genérico
+Added Member To Class: ClassName=ADS_AFE Member=Component C20 Simbolo de capacitor genérico
+Added Member To Class: ClassName=ADS_AFE Member=Component C22 Simbolo de capacitor genérico
+Added Member To Class: ClassName=ADS_AFE Member=Component C24 Simbolo de capacitor genérico
+Added Member To Class: ClassName=Power_Management Member=Component J1 JST CONN
+Added Member To Class: ClassName=MCU_Core Member=Component J2 HTSW-104-07-G-S
+Added Member To Class: ClassName=Datalogging Member=Component J4 MEM2061-01-188-00-A_revA
+Added Member To Class: ClassName=Power_Management Member=Component TP5 Testpoint SMD
+Added Member To Class: ClassName=Power_Management Member=Component TP7 Testpoint SMD

@@ -1,0 +1,13 @@
+Added Component: Designator=Y1(SMD5032-4P)
+Add component (AddParameter): Name = "CL"; Value = "10 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590208237112238080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR"; Value = "100 ?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "8 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Shenzhen SCTF Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part"; Value = "SX5B8.000F1020F30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD5032-4P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=MCU_OSC_OUT Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=MCU_Core Member=Component Y1 Crystal SMD 4-P
