@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=BLE_EN Pin=U1-28
+Removed Pin From Net: NetName=BLE_STATE Pin=U1-29
+Removed Pin From Net: NetName=TX_MCU Pin=U1-30
+Removed Pin From Net: NetName=RX_MCU Pin=U1-31
+Removed Pin From Net: NetName=SPI_CLK_MCU Pin=U1-39
+Removed Pin From Net: NetName=SPI_MISO_MCU Pin=U1-40
+Removed Pin From Net: NetName=SPI_MOSI_MCU Pin=U1-41
+Removed Pin From Net: NetName=SPI_CS_ADC_MCU Pin=U1-42
+Removed Pin From Net: NetName=ADC_DRDY_MCU Pin=U1-43
+Removed Pin From Net: NetName=SPI_CS_SD_MCU Pin=U1-45
+Removed Pin From Net: NetName=CARD_DET_MCU Pin=U1-46
+Added Pin To Net: NetName=SPI_CLK_MCU Pin=U1-26
+Added Pin To Net: NetName=SPI_MISO_MCU Pin=U1-27
+Added Pin To Net: NetName=SPI_MOSI_MCU Pin=U1-28
+Added Pin To Net: NetName=SPI_CS_ADC_MCU Pin=U1-29
+Added Pin To Net: NetName=ADC_DRDY_MCU Pin=U1-30
+Added Pin To Net: NetName=SPI_CS_SD_MCU Pin=U1-31
+Added Pin To Net: NetName=CARD_DET_MCU Pin=U1-32
+Added Pin To Net: NetName=BLE_EN Pin=U1-39
+Added Pin To Net: NetName=BLE_STATE Pin=U1-40
+Added Pin To Net: NetName=TX_MCU Pin=U1-42
+Added Pin To Net: NetName=RX_MCU Pin=U1-43
+Added Member To Class: ClassName=Power_Management Member=Component J1 JST CONN
+Added Member To Class: ClassName=Flex_Sensor Member=Component TP31 Testpoint SMD
