@@ -13,7 +13,6 @@ Project Logs for *  # logs de simulación
 *.out
 
 # Salidas generadas (no diseñadas a mano)
-Project Outputs for */
 Simulation Outputs */
 Import Logs */
 Validation Outputs */
